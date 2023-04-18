@@ -1,1 +1,1 @@
-background color ()
+background color (gainsboro)
