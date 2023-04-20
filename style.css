@@ -371,9 +371,7 @@
   button,
   [type=button],
   [type=reset],
-  [type=submit] {
-    -webkit-appearance: button;
-  }
+  [type=submit]
   button:not(:disabled),
   [type=button]:not(:disabled),
   [type=reset]:not(:disabled),
@@ -430,7 +428,6 @@
 
   [type=search] {
     outline-offset: -2px;
-    -webkit-appearance: textfield;
   }
 
   /* rtl:raw:
@@ -10907,17 +10904,4 @@
       font-size: 4rem;
     }
   }
-  Footer
-  © 2023 GitHub, Inc.
-  Footer navigation
-  Terms
-  Privacy
-  Security
-  Status
-  Docs
-  Contact GitHub
-  Pricing
-  API
-  Training
-  Blog
-  About
+
