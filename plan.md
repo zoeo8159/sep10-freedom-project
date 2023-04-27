@@ -1,2 +1,6 @@
-- background color (gainsboro)
-- 
+- Template (One page wonder)
+- Add more options in navbar
+- Change pictures to corresponding topic (context, part a, part b, model)
+- Change colors to more neutral/warm colors (Tan/Wheat + steel blue,)
+- Change fonts ()
+- Add picture of Aframe model
